@@ -1,4 +1,4 @@
-# NASBench: A Neural Architecture Search Dataset and Benchmark
+# NASBench: A Neural Architecture Search Dataset and Benchmark (Edited for new version of tensorflow)
 
 This repository contains the code used for generating and interacting with the
 NASBench dataset. The dataset contains **423,624 unique neural networks**
